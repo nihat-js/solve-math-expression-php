@@ -1,8 +1,6 @@
-# solve-math-expression-php
+<h5> Evaluate mathematical expressions without eval function </h5>
+Level1 - EASY - only (+,-)
+Level 2 - MEDIUM - only (+,-,x,/)
+Level 3 -  HARD-  ( +,-,x,/,() )
 
-Evaluate mathematical expressions without eval function
-LVL 1 - EASY - only (+,-)
-LVL 2 - MEDIUM - only (+,-,x,/)
-LVL 3 -  HARD-  ( +,-,x,/,() )
-
-LV3 example (5+5/2)+(5x4x2/2+7) 
+Level 3 example (5+5/2)+(5x4x2/2+7) 
